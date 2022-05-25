@@ -1,0 +1,16 @@
+.header{
+  height: 60px;
+  background-color: black;
+  font-size: 40px;
+  justify-content: space-around;
+  display: flex;
+  align-items: center;
+  padding: 0 20px;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+.active a{
+  color: yellow;
+}
